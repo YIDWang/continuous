@@ -10,7 +10,6 @@ import (
 	"os/signal"
 	"sync"
 	"syscall"
-
 	gnet "github.com/facebookgo/grace/gracenet"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
